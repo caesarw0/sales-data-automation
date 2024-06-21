@@ -11,6 +11,12 @@ This repository contains the `SalesDataAutomationBot`, which automates the proce
 - **Update Intranet**: Enters the sales data for each representative into the intranet.
 - **Generate Report**: Takes a screenshot of the updated intranet page and converts it to a PDF for the weekly newsletter.
 
+## Flowchart
+
+The following flowchart illustrates the process automated by the bot:
+
+![Sales Data Automation Bot Flowchart](docs/sales_data_automation_flowchart.png)
+
 ## Running the Bot
 
 Follow these steps to set up and run the bot:
